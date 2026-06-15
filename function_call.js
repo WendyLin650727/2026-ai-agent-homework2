@@ -13,6 +13,9 @@ await initMessage(
     "你是一位單位轉換大師，提供溫度(攝氏與華氏)，長度(公里與英里)，重量(公斤與磅)的轉換。"
 );
 
+//25 度 C 是華⽒幾度？
+//100公里是幾英里?
+//80公斤是幾磅?
 try {
     while (true) {
       const userQuestion = (
