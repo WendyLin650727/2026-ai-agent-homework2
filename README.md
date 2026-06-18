@@ -11,6 +11,7 @@
 ❯ node function_call.js
 
 ✔ 這個小工具提供溫度(攝氏與華氏)，長度(公里與英里)，重量(公斤與磅)的轉換, 請輸入你的單位轉換問題(ex:25 度 C 是華⽒幾度？)： 25 度 C 是華⽒幾度？
+![Alt text](./images/image.png)
 
 [呼叫 tool] convert_unit({"value":"25","from_unit":"C","to_unit":"F"})
 
@@ -25,6 +26,7 @@
 
 ✔ 這個小工具提供溫度(攝氏與華氏)，長度(公里與英里)，重量(公斤與磅)的轉換, 請輸入你的單位轉換問題(ex:25 度 C 是華⽒幾度？)： 100公里是幾英里?
 
+![Alt text](./images/image-1.png)
 [呼叫 tool] convert_unit({"value":"100","from_unit":"公里","to_unit":"英里"})
 
 [呼叫 tool] convert_unit({"value":"100","from_unit":"kilometer","to_unit":"mile"})
@@ -34,6 +36,8 @@
 換算關係：1 公里 ≈ 0.621371 英里。
 
 ✔ 這個小工具提供溫度(攝氏與華氏)，長度(公里與英里)，重量(公斤與磅)的轉換, 請輸入你的單位轉換問題(ex:25 度 C 是華⽒幾度？)： 80公斤是幾磅?
+
+![Alt text](./images/image-2.png)
 
 [呼叫 tool] convert_unit({"value":"80","from_unit":"kg","to_unit":"lb"})
 
